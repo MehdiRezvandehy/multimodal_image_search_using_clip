@@ -8,4 +8,4 @@ This notebook demonstrates how to build an **image search system** using **CLIP*
 4. **Similarity Search** – Applying cosine similarity to match text queries against image embeddings.
 5. **Result Exploration** – Retrieving and visualizing the most relevant images for each query.
 
-![alt text](image.png)
+<img width="784" height="378" alt="image" src="https://github.com/user-attachments/assets/4990848f-59b9-4e7d-8655-17d0bec31b2c" />
