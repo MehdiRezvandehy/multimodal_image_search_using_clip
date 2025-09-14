@@ -1,6 +1,6 @@
 # multimodal_image_search_using_clip
 
-This notebook demonstrates how to build an **image search system** using **CLIP** (Contrastive Language–Image Pre-training). The workflow involves:
+This notebook walks through building an **image search system** using **Google’s SigLIP model**, part of the **CLIP** (Contrastive Language–Image Pre-training) family. The process includes:
 
 1. **Data Retrieval** – Collecting a set of candidate images.
 2. **Model Setup** – Loading a pre-trained CLIP (no fine-tuning required).
