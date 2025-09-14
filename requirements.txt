@@ -1,0 +1,16 @@
+
+dotenv==0.9.9
+langchain==0.3.26
+langchain_openai
+matplotlib==3.8.4
+openai==1.82.0
+beautifulsoup4
+Pillow
+tqdm
+re
+bs4
+requests==2.32.3
+selenium
+torch==2.6.0
+tqdm==4.66.5
+transformers==4.48.2
