@@ -1,0 +1,11 @@
+# multimodal_image_search_using_clip
+
+This notebook demonstrates how to build an **image search system** using **CLIP** (Contrastive Language–Image Pre-training). The workflow involves:
+
+1. **Data Retrieval** – Collecting a set of candidate images.
+2. **Model Setup** – Loading a pre-trained CLIP (no fine-tuning required).
+3. **Embedding Generation** – Encoding both images and text queries into a shared representation space.
+4. **Similarity Search** – Applying cosine similarity to match text queries against image embeddings.
+5. **Result Exploration** – Retrieving and visualizing the most relevant images for each query.
+
+![alt text](image.png)
