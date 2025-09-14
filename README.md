@@ -1,4 +1,4 @@
-# multimodal_image_search_using_clip
+# multimodal_image_search_using_siglip
 
 This notebook walks through building an **image search system** using **Google’s SigLIP model**, part of the **CLIP** (Contrastive Language–Image Pre-training) family. The process includes:
 
